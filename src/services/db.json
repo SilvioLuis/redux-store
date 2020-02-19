@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Produto 1",
+            "price": 178.12,
+            "image": "https://via.placeholder.com/300"
+        },
+        {
+            "id": 2,
+            "title": "Produto 2",
+            "price": 32.32,
+            "image": "https://via.placeholder.com/300"
+        },
+        {
+            "id": 3,
+            "title": "Produto 3",
+            "price": 432.12,
+            "image": "https://via.placeholder.com/300"
+        },
+        {
+            "id": 4,
+            "title": "Produto 4",
+            "price": 54.23,
+            "image": "https://via.placeholder.com/300"
+        },
+        {
+            "id": 5,
+            "title": "Produto 5",
+            "price": 183.13,
+            "image": "https://via.placeholder.com/300"
+        },
+        {
+            "id": 6,
+            "title": "Produto 6",
+            "price": 93.12,
+            "image": "https://via.placeholder.com/300"
+        },
+        {
+            "id": 7,
+            "title": "Produto 7",
+            "price": 73.57,
+            "image": "https://via.placeholder.com/300"
+        },
+        {
+            "id": 8,
+            "title": "Produto 8",
+            "price": 65.43,
+            "image": "https://via.placeholder.com/300"
+        },
+        {
+            "id": 9,
+            "title": "Produto 9",
+            "price": 12.12,
+            "image": "https://via.placeholder.com/300"
+        },
+        {
+            "id": 10,
+            "title": "Produto 10",
+            "price": 128.12,
+            "image": "https://via.placeholder.com/300"
+        }
+    ]
+}
